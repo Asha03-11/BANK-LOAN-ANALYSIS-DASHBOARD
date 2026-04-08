@@ -71,6 +71,8 @@ Loan Status
 Interact with visuals for insights
 📸 Dashboard Preview
 <img width="1440" height="811" alt="Screenshot BANKINSIGHT" src="https://github.com/user-attachments/assets/a857e10d-ccfb-448e-b253-1e56e5524240" />
+<img width="1444" height="810" alt="BANK" src="https://github.com/user-attachments/assets/ea54fb4a-2f28-4e6a-90e0-f244c07f1fe2" />
+<img width="1438" height="807" alt="Screenshot BANK" src="https://github.com/user-attachments/assets/c6ca24e0-36f5-4258-88c9-ce91f75ca333" />
 
 👩‍💻 Author
 Asha Padhi
